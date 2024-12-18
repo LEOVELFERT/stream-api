@@ -1,0 +1,26 @@
+
+“
+java:S3655T"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¡“ùÈ8 Ğß«†2J$6e43d2e4-07fc-48ef-a018-8dc2f0a674e2
+˜
+java:S3655f"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Öâ˜¸úÿÿÿÿ8 Ğß«†2J$fdd30489-9634-49e5-8484-00bc4cc4d8e1
+
+java:S1192"KDefine a constant instead of duplicating this literal "Mechanical" 4 times.(œî£÷8¡Ğß«†2J$67ad2ad6-89a5-4b68-937a-8ac138cef9d8
+
+java:S1192"KDefine a constant instead of duplicating this literal "Aranthangi" 3 times.(œî£÷8¡Ğß«†2J$9b490ee2-0514-4a72-9f0d-f56fb6a38d88
+†
+java:S1854"">Remove this useless assignment to local variable "rankedList".(îâØÜúÿÿÿÿ8¥Ğß«†2J$84cdc147-db4b-4555-a975-efaeb787d066
+w
+java:S1481""/Remove this unused "rankedList" local variable.(îâØÜúÿÿÿÿ8ªĞß«†2J$2a2c63f0-b529-4ecd-b1a9-31c08e907774
+ƒ	java:S125%"<This block of commented-out lines of code should be removed.(’Å·÷øÿÿÿÿ8ªĞß«†2J$6d7b4d53-4e46-4f6c-a2c0-e4004a753394
+r	java:S1061"+Replace this use of System.out by a logger.(„´ı…ıÿÿÿÿ8­Ğß«†2J$c7f61f2f-849b-42a1-8293-e0da18327be0
+m	java:S1062"+Replace this use of System.out by a logger.(¿êò‘8­Ğß«†2J$1ba1a6a9-7152-4228-896e-caa7d66727c8
+„
+java:S16127"AReplace this lambda with method reference 'Student::getContacts'.(ıÉ®å8®Ğß«†2J$468e9b6a-4deb-4eee-a7aa-4fa3a5360a2d
+r	java:S1068"+Replace this use of System.out by a logger.(‚û¢óüÿÿÿÿ8¯Ğß«†2J$b80d1eb1-eeac-4aee-9061-4b4a09846a87
+r	java:S106="+Replace this use of System.out by a logger.(Ç®úÿÿÿÿ8±Ğß«†2J$e0868e63-2416-4c1d-8129-e954cfdf85fd
+m	java:S106D"+Replace this use of System.out by a logger.(›©’Ÿ8²Ğß«†2J$d66611ec-765b-496e-9c0c-4c86b3388bf3
+r	java:S106J"+Replace this use of System.out by a logger.(Ì÷™¿úÿÿÿÿ8²Ğß«†2J$c757f963-bb06-4648-9995-adf35aa1b490
+r	java:S106O"+Replace this use of System.out by a logger.(òÜï²ÿÿÿÿÿ8´Ğß«†2J$1ad41ffe-36bd-47a5-8035-a9322bba053d
+m	java:S106Z"+Replace this use of System.out by a logger.(Œ¹‘ù8µĞß«†2J$d12168a9-9887-4fb2-a095-737a9f406979
+m	java:S106b"+Replace this use of System.out by a logger.(íñª”8¶Ğß«†2J$bf7aa849-cb74-41a9-b824-d10cf6b2842e
+m	java:S106n"+Replace this use of System.out by a logger.(î¹‡Ú8ÆÇâ«†2J$97377069-f2c5-48d4-95d6-c44fb2bae4fa
